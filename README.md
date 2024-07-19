@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://venkateshm-portfolio.netlify.app/](https://venkateshm-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [kalvithuga](kalvithuga)
-
 - 📫 How to reach me **venkat42005@gmail.com**
 
 - 📄 Know about my experiences [https://venkateshm-portfolio.netlify.app/](https://venkateshm-portfolio.netlify.app/)
