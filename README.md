@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat2005&label=Profile%20views&color=0e75b6&style=flat" alt="venkat2005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat2005" alt="venkat2005" /></a> </p>
-
 - 🔭 I’m currently working on **my portfolio project**
 
 - 🌱 I’m currently learning **Modern CSS frameworks like Tailwind CSS and advanced styling techniques**
 
-- 👯 I’m looking to collaborate on **nnovative frontend projects that challenge my skills and creativity**
+- 👯 I’m looking to collaborate on **Innovative frontend projects that challenge my skills and creativity**
 
 - 👨‍💻 All of my projects are available at [https://venkateshm-portfolio.netlify.app/](https://venkateshm-portfolio.netlify.app/)
 
