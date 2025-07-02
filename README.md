@@ -108,5 +108,6 @@ A clean personal site to showcase skills, certifications, and projects.
 </p>
 
 <p align="center">
-  🕒 <strong>Last updated:</strong> July 2025
+  💬 <i>“The more I learn, the more I realize how much I don't know.” – Albert Einstein</i>
 </p>
+
