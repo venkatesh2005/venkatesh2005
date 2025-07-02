@@ -90,16 +90,6 @@ A clean personal site to showcase skills, certifications, and projects.
 
 ---
 
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkat2005&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=venkat2005&theme=radical&hide_border=true" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkat2005&layout=compact&theme=radical&hide_border=true" width="50%" />
-</div>
-
 ---
 
 ## 📬 Let’s Connect
