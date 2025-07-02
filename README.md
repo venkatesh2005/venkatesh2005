@@ -1,16 +1,11 @@
 <!-- 💫 Venkatesh M | Creative Full Stack Web Developer README 💫 -->
 
-<h1 align="center">
+<h1 style="font-size:26px" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Continuous+Learner;Passionate+Coder;Let's+Build+Something+Amazing+%F0%9F%92%A1" alt="Typing Header">
 </h1>
 
 
 ---
-
-## 👨‍💻 About Me
-
-Hey there! I’m <strong>Venkatesh M</strong> — a final-year Computer Science student passionate about building modern, intuitive, and scalable web apps.
-
 ## 👨‍💻 About Me
 
 Hey there! I’m **Venkatesh M** — a final-year Computer Science student passionate about building modern, intuitive, and scalable web apps.
@@ -21,7 +16,7 @@ Hey there! I’m **Venkatesh M** — a final-year Computer Science student passi
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 ### 🎨 Frontend
 <p>
