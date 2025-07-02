@@ -1,8 +1,9 @@
 <!-- 💫 Venkatesh M | Creative Full Stack Web Developer README 💫 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Venkatesh+M+-+Full+Stack+Web+Developer;React+%7C+Flask+%7C+MongoDB+%7C+Tailwind;Hackathon+Winner+%7C+Open+Source+Contributor;Let%E2%80%99s+Build+Something+Amazing+%F0%9F%92%A1" alt="Typing Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Continuous+Learner;Passionate+Coder;Let's+Build+Something+Amazing+%F0%9F%92%A1" alt="Typing Header">
 </h1>
+
 
 ---
 
@@ -10,19 +11,59 @@
 
 Hey there! I’m <strong>Venkatesh M</strong> — a final-year Computer Science student passionate about building modern, intuitive, and scalable web apps.
 
-- 💼 Focus: Frontend + Backend → React, Flask, MongoDB
-- 🔍 Exploring: Tailwind CSS, Firebase, Next.js
-- 🧠 I enjoy solving problems with clean, creative code
-- 📍 Based in Tamil Nadu, India
+## 👨‍💻 About Me
+
+Hey there! I’m **Venkatesh M** — a final-year Computer Science student passionate about building modern, intuitive, and scalable web apps.
+
+- 💼 Focus: Full Stack Development → MERN Stack, MySQL, PostgreSQL  
+- 🔍 Exploring: Next.js, Tailwind CSS, TypeScript  
 - 🚀 Actively seeking full stack internships & freelance roles
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,flask,mongodb,mysql,php,python,java,c,git,github,vscode,figma,netlify" />
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<!--   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<!--   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
+
+### 🔧 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+### 🗃️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
 
 ---
 
