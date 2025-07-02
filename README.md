@@ -1,4 +1,4 @@
-<!-- 💫 Venkatesh M | Creative Full Stack Web Developer README 💫 -->
+<!-- 💫 Venkatesh M | Full Stack Web Developer README 💫 -->
 
 <h1 style="font-size:26px" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Continuous+Learner;Passionate+Coder;Let's+Build+Something+Amazing+%F0%9F%92%A1" alt="Typing Header">
@@ -16,7 +16,7 @@ Hey there! I’m **Venkatesh M** — a final-year Computer Science student passi
 
 ---
 
-<h1>🛠️ Tech Stack</h1>
+### 🛠️ Tech Stack
 
 ### 🎨 Frontend
 <p>
@@ -66,7 +66,7 @@ Hey there! I’m **Venkatesh M** — a final-year Computer Science student passi
 
 🔧 <strong>Feedback Automation System</strong>  
 A real-time feedback platform using Flask + MongoDB. Replaces Google Forms with role-based access and analytics.  
-🔗 Live: [venkateshm-portfolio.netlify.app](https://venkateshm-portfolio.netlify.app)
+🔗 Live: [feedback-system-9gw8.onrender.com](https://feedback-system-9gw8.onrender.com)
 
 🎉 <strong>CIET Symposium Website</strong>  
 Built with React & Tailwind CSS for event registration, featuring dynamic filtering and department-specific listings.  
@@ -90,14 +90,6 @@ A clean personal site to showcase skills, certifications, and projects.
 
 ---
 
-## 📜 Certifications
-
-- ✅ NPTEL – C Programming  
-- ✅ Elite – Python for Data Science  
-- ✅ Elite – Programming in Java  
-- ✅ DBMS & SQL – Foundations
-
----
 
 ## 📈 GitHub Stats
 
@@ -115,7 +107,7 @@ A clean personal site to showcase skills, certifications, and projects.
 <p align="center">
   <a href="mailto:venkat42005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/venkatesh-m-0b2a62273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/venkat2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/venkatesh2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://venkateshm-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
