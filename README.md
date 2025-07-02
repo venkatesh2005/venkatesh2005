@@ -16,7 +16,7 @@ Hey there! I’m **Venkatesh M** — a final-year Computer Science student passi
 
 ---
 
-🛠️ Tech Stack
+<h1>🛠️ Tech Stack</h1>
 
 ### 🎨 Frontend
 <p>
