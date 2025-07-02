@@ -104,10 +104,6 @@ A clean personal site to showcase skills, certifications, and projects.
 ---
 
 <p align="center">
-  💬 <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
-</p>
-
-<p align="center">
   💬 <i>“The more I learn, the more I realize how much I don't know.” – Albert Einstein</i>
 </p>
 
